@@ -4,8 +4,7 @@
 
  [![mg4432's GitHub stats](https://github-readme-stats.vercel.app/api?username=mg4432&theme=dracula)](https://github.com/mg4432/) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mg4432)](https://solved.ac/mg4432/)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg4432&layout=compact&theme=tokyonight)
 
 
 
