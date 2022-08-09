@@ -4,6 +4,31 @@
 
  [![mg4432's GitHub stats](https://github-readme-stats.vercel.app/api?username=mg4432&theme=dracula)](https://github.com/mg4432/) 
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={mg4432}&theme=warm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **mg4432/mg4432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
