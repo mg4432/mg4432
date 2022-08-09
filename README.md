@@ -1,4 +1,10 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+
+
+
+
 
 <!--
 **mg4432/mg4432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
