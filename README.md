@@ -4,7 +4,7 @@
 
  [![mg4432's GitHub stats](https://github-readme-stats.vercel.app/api?username=mg4432&theme=dracula)](https://github.com/mg4432/) 
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={mg4432}&theme=dark)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={mg4432})](https://solved.ac/{mg4432})
 
 
 
