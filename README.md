@@ -27,7 +27,7 @@
 - 부산대학교 통계학과 대학원 석사과정 (2021.09 ~ )
 
 # 🌱 Blog
-- [tistory,https://park-mingyu.tistory.com/](https://park-mingyu.tistory.com/)
+- [park-mingyu,https://park-mingyu.tistory.com/](https://park-mingyu.tistory.com/)
 # 🌱 Github
 - [mg4432,https://github.com/mg4432](https://github.com/mg4432)
 
