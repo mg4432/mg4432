@@ -13,21 +13,22 @@
 
 - [**부산대학교병원**] 소아청소년과,  외상외과, etc
 
-# 📚 Skills
-- Python
-- R 
-
 # 🏆 Prize
 - 2022 기상청 날씨 빅데이터 콘테스트 **입선**(2022)
 - 부산대학교 교수학습 지원센터 성공학습 노하우 공모전 **우수상**(2016)
 
-# 🏫 Education
+# 📚 Skills
+- Python
+- R 
+- MySQL
 
+# 🏫 Education
 - 부산대학교 통계학과(2016.03 ~ 2021.08)
 - 부산대학교 통계학과 대학원 석사과정 (2021.09 ~ )
 
+# 🌱 Blog
+- [tistory,https://park-mingyu.tistory.com/](https://park-mingyu.tistory.com/)
 # 🌱 Github
-
 - [mg4432,https://github.com/mg4432](https://github.com/mg4432)
 
 # 📞 Contact
