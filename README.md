@@ -24,7 +24,7 @@
 
 # 📓 Blog
 - [park-mingyu,https://park-mingyu.tistory.com/](https://park-mingyu.tistory.com/)
-- 
+
 # 🌱 Github
 - [mg4432,https://github.com/mg4432](https://github.com/mg4432)
 
