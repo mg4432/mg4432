@@ -7,8 +7,6 @@
         
 - [**부산시**] 안과질환 진단서비스 플랫폼 개발사업(2021.10 ~ 2021.12)
         
-- [**기타**] ‘부산대학교 학생들의 진로준비 실태 및 인식 조사’(2020-11 ~ 2020.12)  
-
 # 🏫 Etc
 
 - [**부산대학교병원**] 소아청소년과,  외상외과, etc
@@ -46,12 +44,11 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmg4432&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-[![mg4432's GitHub stats](https://github-readme-stats.vercel.app/api?username=mg4432&theme=dracula)](https://github.com/mg4432/) 
+[![mg4432's GitHub stats](https://github-readme-stats.vercel.app/api?username=mg4432)](https://github.com/mg4432/) 
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg4432&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg4432&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mg4432)](https://solved.ac/mg4432)<br/>
-
 
 </div>
 
