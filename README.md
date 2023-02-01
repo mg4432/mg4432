@@ -29,10 +29,8 @@
 
 # 📓 Blog
 - [park-mingyu, https://park-mingyu.tistory.com](https://park-mingyu.tistory.com/)
-
 # 🌱 Github
 - [mg4432, https://github.com/mg4432](https://github.com/mg4432)
-
 # 📓 Notion Portfolio 
 - [Notion](https://mingyupark.notion.site/Mingyu-Park-a3eb0a30e8af45f297a2e1d247f48dd8)
 
