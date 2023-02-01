@@ -19,10 +19,11 @@
 - 부산대학교 교수학습 지원센터 성공학습 노하우 공모전 **우수상**(2016)
 
 # 📚 Skills
+<div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A2?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
+</div>
 
 # 🏫 Education
 - 부산대학교 통계학과(2016.03 ~ 2021.08)
