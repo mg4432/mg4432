@@ -1,4 +1,5 @@
-#
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20render&fontSize=90)
+
 # 👨🏻‍💻 Project
 - [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/)(2022.06 ~ 2022.08)**
     
@@ -23,14 +24,16 @@
 - 부산대학교 통계학과 대학원 석사과정 (2021.09 ~ )
 
 # 📓 Blog
-- [park-mingyu,https://park-mingyu.tistory.com/](https://park-mingyu.tistory.com/)
+- [park-mingyu, https://park-mingyu.tistory.com](https://park-mingyu.tistory.com/)
 
 # 🌱 Github
-- [mg4432,https://github.com/mg4432](https://github.com/mg4432)
+- [mg4432, https://github.com/mg4432](https://github.com/mg4432)
+
+# 📓 Notion Portfolio 
+- [My Notion Portfolio](https://mingyupark.notion.site/Mingyu-Park-a3eb0a30e8af45f297a2e1d247f48dd8)
+
 
 # 📞 Contact
-
-- 📱 010-9528-2840
 - 📧 mg4432@pusan.ac.kr
 
 <div align=center>
