@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=250&section=header&text=Welcome%20GitHub&fontSize=70&animation=fadeIn) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FEECB3&height=300&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FEECB3&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
 
 
 
