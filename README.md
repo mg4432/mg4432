@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 
+
+
 # 👨🏻‍💻 Project
 - [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/)(2022.06 ~ 2022.08)**
     
@@ -17,9 +19,10 @@
 - 부산대학교 교수학습 지원센터 성공학습 노하우 공모전 **우수상**(2016)
 
 # 📚 Skills
-- Python
-- R 
-- MySQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A2?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
 
 # 🏫 Education
 - 부산대학교 통계학과(2016.03 ~ 2021.08)
