@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=80&animation=fadeIn&desc=Mingyu's%20Github%20Profile&descAlignY=65&descAlign=60)
 
-
-
 # 👨🏻‍💻 Project
 - [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/)(2022.06 ~ 2022.08)**
     
@@ -44,7 +42,7 @@
 
 [![mg4432's GitHub stats](https://github-readme-stats.vercel.app/api?username=mg4432)](https://github.com/mg4432/) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mg4432&size=large)](https://solved.ac/mg4432)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg4432&layout=compact) -->
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mg4432&layout=compact)
 
 </div>
