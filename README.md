@@ -35,12 +35,9 @@
 </div>
 
 # 📞 Contact 
-- mg4432@pusan.ac.kr
-
-- Blog : [park-mingyu, https://park-mingyu.tistory.com](https://park-mingyu.tistory.com/)
-- Github : [mg4432, https://github.com/mg4432](https://github.com/mg4432)
-- Notion : [Notion](https://mingyupark.notion.site/Mingyu-Park-a3eb0a30e8af45f297a2e1d247f48dd8)
 - E-mail : mg4432@pusan.ac.kr
+
+# 🎢 Stats
 
 <div align=center>
  
