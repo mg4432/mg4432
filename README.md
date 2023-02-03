@@ -28,7 +28,7 @@
 # 📓 Links
 <div align=center>
 
-|<img src="https://miro.medium.com/v2/resize:fit:636/format:webp/1*1OKmA2EdGln8O6RCVORgGg.png" width = "30"/></a>| <img src="https://blog.kakaocdn.net/dn/tJJAF/btqNH0rpnHA/QFedr6Gwu7hoSEDOKltfvk/img.png" width = "30"/></a> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" width = "30"/></a> |
+|<img src="https://blog.kakaocdn.net/dn/tJJAF/btqNH0rpnHA/QFedr6Gwu7hoSEDOKltfvk/img.png" width = "30"/></a>|<img src="https://miro.medium.com/v2/resize:fit:636/format:webp/1*1OKmA2EdGln8O6RCVORgGg.png" width = "30"/></a>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" width = "28"/></a>|
 |--|--|--|
 |[Blog](https://park-mingyu.tistory.com/)|[Github](https://github.com/mg4432)|[Notion](https://mingyupark.notion.site/Mingyu-Park-a3eb0a30e8af45f297a2e1d247f48dd8)|
 
