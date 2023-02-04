@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=80&animation=fadeIn&desc=Mingyu's%20Github%20Profile&descAlignY=65&descAlign=60)
 
 # 👨🏻‍💻 Project
-- [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://github.com/mg4432/2022-weather-competition)(2022.06 ~ 2022.08)**
+- [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/)(2022.06 ~ 2022.08)**
     
-- [**데이콘**] **[동서발전 태양광 발전량 예측 AI 경진대회](https://github.com/Mos-start2092/ASMR-DACON-competition)(2021.06 ~ 2021.07)**
+- [**데이콘**] **[동서발전 태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235720/overview/description)(2021.06 ~ 2021.07)**
         
 - [**부산시**] 안과질환 진단서비스 플랫폼 개발사업(2021.10 ~ 2021.12)
         
@@ -28,7 +28,7 @@
 # 📓 Links
 <div align=center>
 
-|<img src="https://blog.kakaocdn.net/dn/tJJAF/btqNH0rpnHA/QFedr6Gwu7hoSEDOKltfvk/img.png" width = "30"/></a>|<img src="https://miro.medium.com/v2/resize:fit:636/format:webp/1*1OKmA2EdGln8O6RCVORgGg.png" width = "30"/></a>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" width = "28"/></a>|
+|[<img src="https://blog.kakaocdn.net/dn/tJJAF/btqNH0rpnHA/QFedr6Gwu7hoSEDOKltfvk/img.png" width = "30"/></a>](https://park-mingyu.tistory.com/)|[<img src="https://miro.medium.com/v2/resize:fit:636/format:webp/1*1OKmA2EdGln8O6RCVORgGg.png" width = "30"/></a>](https://github.com/mg4432)|[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" width = "28"/></a>](https://mingyupark.notion.site/Mingyu-Park-a3eb0a30e8af45f297a2e1d247f48dd8)|
 |--|--|--|
 |[Blog](https://park-mingyu.tistory.com/)|[Github](https://github.com/mg4432)|[Notion](https://mingyupark.notion.site/Mingyu-Park-a3eb0a30e8af45f297a2e1d247f48dd8)|
 
