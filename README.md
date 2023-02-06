@@ -47,4 +47,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mg4432)](https://solved.ac/mg4432)
 
 </div>
-
+ 
