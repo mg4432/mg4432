@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=80&animation=fadeIn&desc=Mingyu's%20Github%20Profile&descAlignY=65&descAlign=60)
 
 # 👨🏻‍💻 Project
-- [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/)(2022.06 ~ 2022.08)**
+- [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/) (2022.06 ~ 2022.08)**
     
-- [**데이콘**] **[동서발전 태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235720/overview/description)(2021.06 ~ 2021.07)**
+- [**데이콘**] **[동서발전 태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235720/overview/description) (2021.06 ~ 2021.07)**
         
-- [**부산시**] 안과질환 진단서비스 플랫폼 개발사업(2021.10 ~ 2021.12)
+- [**부산시**] 안과질환 진단서비스 플랫폼 개발사업 (2021.10 ~ 2021.12)
         
 # 👨🏻‍💻 Etc
 - [**부산대학교병원**] 소아청소년과,  외상외과, etc
