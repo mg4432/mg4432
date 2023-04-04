@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=80&animation=fadeIn&desc=Mingyu's%20Github%20Profile&descAlignY=65&descAlign=60)
 
 # 👨🏻‍💻 Project
-- [**기상청**] **[2022 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/) (2022.06 ~ 2022.08)**
+- [**Dacon**] **[전력 수급 계획을 위한 일별 태양광 발전량 예측 모델 개발](https://dacon.io/competitions/official/235720/overview/description) (2021.06 ~ 2021.07)**
+
+- [**기상청**] **[기상에 따른 일별 혈관질환 발생 예측모델 개발](https://bd.kma.go.kr/contest/) (2022.06 ~ 2022.08)**
     
-- [**데이콘**] **[동서발전 태양광 발전량 예측 AI 경진대회](https://dacon.io/competitions/official/235720/overview/description) (2021.06 ~ 2021.07)**
+- [**Kaggle**] **[이커머스 쇼핑몰 현황 분석](https://dacon.io/competitions/official/235720/overview/description) (2022.11 ~ 2022.11)**
+
+- [**Kaggle**] **[기계학습을 통한 매치 순위에 영향을 미치는 요인 파악](https://dacon.io/competitions/official/235720/overview/description) (2022.02 ~ 2022.03)**
         
-- [**부산시**] 안과질환 진단서비스 플랫폼 개발사업 (2021.10 ~ 2021.12)
-        
-# 👨🏻‍💻 Etc
-- [**부산대학교병원**] 소아청소년과,  외상외과, etc
 
 # 🏆 Prize
 - 2022 기상청 날씨 빅데이터 콘테스트 **입선**(2022)
