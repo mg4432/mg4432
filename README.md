@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A2?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </div>
 
-# 🛠️ Certificates
+# 📘 Certificates
 - **[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/25f36fbd4456?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)**
 
 # 🏫 Education
