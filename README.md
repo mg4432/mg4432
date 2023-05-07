@@ -12,6 +12,7 @@
 
 # 🏆 Prize
 - 2022 기상청 날씨 빅데이터 콘테스트 **입선**(2022)
+- 
 - 부산대학교 교수학습 지원센터 성공학습 노하우 공모전 **우수상**(2016)
 
 # 🛠️ Skills
@@ -20,6 +21,9 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A2?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </div>
+
+# 🛠️ Certificates
+- **[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/25f36fbd4456?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)**
 
 # 🏫 Education
 - 부산대학교 통계학과 (2016.03 ~ 2021.08)
