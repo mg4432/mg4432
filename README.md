@@ -5,7 +5,7 @@
 
 - [**기상청**] **[기상에 따른 일별 혈관질환 발생 예측모델 개발](https://bd.kma.go.kr/contest/) (2022.06 ~ 2022.08)**
     
-- [**Kaggle**] **[이커머스 쇼핑몰 현황 분석](https://dacon.io/competitions/official/235720/overview/description) (2022.11 ~ 2022.11)**
+- [**Kaggle**] **[이커머스 쇼핑몰 현황 분석](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) (2022.11 ~ 2022.11)**
 
 - [**Kaggle**] **[기계학습을 통한 매치 순위에 영향을 미치는 요인 파악](https://www.kaggle.com/competitions/pubg-finish-placement-prediction) (2022.02 ~ 2022.03)**
         
